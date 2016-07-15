@@ -15,7 +15,7 @@ This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk)
 ## 2. Installing Python on your computer
 
 * First it is important to get used to the command line [here](https://www.codecademy.com/courses/learn-the-command-line), if you aren't already.
-* Then it is time to install Python. There are tons of ways to do it but one of the easiest is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the **Python 3.5** distribution for your operational system](https://www.continuum.io/downloads).
+* Then it is time to install Python. There are tons of ways to do it but one of the easiest is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the **Python 3.5** distribution for your operational system](https://www.continuum.io/downloads). For convenience use the graphical installer, if available.
 * Install it using their installer and following their install instructions.
 * Now open a command line application (e.g. the preinstalled Terminal on Mac OS X) and type `which python`. Hit Enter. You should get an output along the lines of this:
 
