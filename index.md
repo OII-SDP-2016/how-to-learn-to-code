@@ -6,6 +6,14 @@ layout: default
 
 This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk). It will contain a step-by-step guide with ressources relevant to scientific programming and data analysis.
 
+It is meant to be dead simple to follow and using the best resources we know to be out there. Just work it through line by line.
+
+# Problems following this guide?
+
+Raise *any* issue you have with this guide, may it be understanding, or technical problems [here](https://github.com/OII-SDP-2016/how-to-learn-to-code/issues). Try to make sure that you search for your issue, before you create a new one. You will need a Github account for this, which is free. You will want to have one later on anyway ;)
+
+# Let's start
+
 ## 1. Learning Python
 
 [Python](https://python.org) is a easy to learn programming language and quite effective for data analysis, that's why we are starting with Python.
