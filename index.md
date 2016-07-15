@@ -4,9 +4,9 @@ layout: default
 
 # How to learn to code
 
-This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk). It will contain a step-by-step guide with ressources relevant to scientific programming and data analysis.
+*This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk). It will contain a step-by-step guide with ressources relevant to scientific programming and data analysis.*
 
-It is meant to be dead simple to follow and using the best resources we know to be out there. Just work it through line by line.
+This guide is meant to be dead simple to follow and using the best resources we know to be out there. Just work it through line by line and skip steps if you think you are already familiar with them.
 
 # Problems following this guide?
 
