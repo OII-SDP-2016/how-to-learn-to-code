@@ -7,4 +7,4 @@ It is available at https://oii-sdp-2016.github.io/how-to-learn-to-code
 
 The contents are basically in [`index.md`](index.md) file.
 
-If you want to contribute, either fork this repository and make a pull request or contact one of the [contributors of this repository](https://github.com/OII-SDP-2016/how-to-learn-to-code/graphs/contributors) if you want to become one.
+If you want to contribute contact one of the [contributors of this repository](https://github.com/OII-SDP-2016/how-to-learn-to-code/graphs/contributors) if you want to become one. Don't be afraid if you're not technically inclined. Helping us to reformulate and correct text is very welcome and easy to do with the approach we're using. It's almost as easy as writing in Word.
