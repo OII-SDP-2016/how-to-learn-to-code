@@ -1,0 +1,7 @@
+title: OII SDP 2016 — How to learn to code
+description: >
+  Legacy project for OII SDP 2016, a step-by-step guide with ressources
+  relevant to scientific programming and data analysis.
+baseurl: ""
+url: "http://oii-sdp-2016.github.io"
+markdown: kramdown
