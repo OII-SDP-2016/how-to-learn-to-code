@@ -13,13 +13,18 @@ This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk)
 1. Learn the syntax at [Codacademy](https://www.codecademy.com/tracks/python)
 2. If you want to know more, take a look on the book [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html) for free
 
-## Learn TDD
+## Installing Python in your computer
+
+1. First it is important to get used to the [command line](https://www.codecademy.com/courses/learn-the-command-line)
+2. Then it is time to install Python. There are tons of ways to do it but the recommended one is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the **Python 3.5** distribution for your operational system](https://www.continuum.io/downloads)
+
+[…]
+
+## Extras
+
+### Learn TDD
 
 Test Driven Development, or TDD, is a great approach to development, that will save you hours of debuging. 
 
 1. Start with [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 2. If you want t go deeper in tests, take a look in this early version of [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) for free
-
-## Installing Python in your computer
-
-[…]
