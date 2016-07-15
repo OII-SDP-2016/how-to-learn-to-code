@@ -24,7 +24,6 @@ $ which python
 /Users/YOURUSERNAME/anaconda/bin/python
 ```
 
-## Extras
 * If you enter `python` (hitting Enter will be omitted from now on ;) ) you should see a Python shell as you had it in the Codecademy course.
 * Try things out you've learned in the course.
 * When you're finished hit <kbd>ctrl</kbd> + <kbd>D</kbd>. You will see the command line again.
