@@ -6,21 +6,27 @@ layout: default
 
 *This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk). It will contain a step-by-step guide with ressources relevant to scientific programming and data analysis.*
 
+## How to use and contribute to this guide
+
 This guide is meant to be dead simple to follow and using the best resources we know to be out there. Just work it through line by line and skip steps if you think you are already familiar with them.
 
-# Problems following this guide?
+### Problems following this guide?
 
 Raise *any* issue you have with this guide, may it be understanding, or technical problems [here](https://github.com/OII-SDP-2016/how-to-learn-to-code/issues). Try to make sure that you search for your issue, before you create a new one. You will need a Github account for this, which is free. You will want to have one later on anyway ;)
 
-# Let's start
+### I want to help writing!
 
-## 1. Learning Python
+Great! If you want to help us writing, contact one of the [contributors of this repository](https://github.com/OII-SDP-2016/how-to-learn-to-code/graphs/contributors) if you want to become one. Don't be afraid if you're not technically inclined. Helping us to reformulate and correct text is very welcome and easy to do with the approach we're using. It's almost as easy as writing in Word.
+
+## Let's start
+
+### 1. Learning Python
 
 [Python](https://python.org) is a easy to learn programming language and quite effective for data analysis, that's why we are starting with Python.
 
 **Complete the course at [Codecademy](https://www.codecademy.com/tracks/python). If you're lucky, this will take you one rainy weekend. If you're unlucky, the sun will come out. Nobody said it's going to be easy ;)**
 
-## 2. Installing Python on your computer
+### 2. Installing Python on your computer
 
 * First it is important to get used to the command line [here](https://www.codecademy.com/courses/learn-the-command-line), if you aren't already.
 * Then it is time to install Python. There are tons of ways to do it but one of the easiest is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the **Python 3.5** distribution for your operational system](https://www.continuum.io/downloads). For convenience use the graphical installer, if available.
@@ -36,10 +42,13 @@ $ which python
 * Try things out you've learned in the course.
 * When you're finished hit <kbd>ctrl</kbd> + <kbd>D</kbd>. You will see the command line again.
 
-## 3. Get a good text editor
+### 3. Get a good text editor
 [...]
 
-## 4. Write your first script
+### 4. Write your first script
+[...]
+
+### 5. Learn pandas to work with data in Python
 [...]
 
 ## What next?
@@ -48,6 +57,7 @@ Here are a few things you could find useful on your further journey:
 
 ### Python Resources
 
+* [Python Documentation](https://docs.python.org/3.5/library/multiprocessing.html): Here you can look up every built-in function of Python in detail.
 * **[The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)**: A good thing to read through over time to understand how to become a decent Python programmer.
 * [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html)
 
