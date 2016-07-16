@@ -43,7 +43,11 @@ $ which python
 * When you're finished hit <kbd>ctrl</kbd> + <kbd>D</kbd>. You will see the command line again.
 
 ### 3. Get a good text editor
-[...]
+A good text editor will make your live much more convenient.
+
+There are a lot of pretty ideological discussions about which text editor to use. You don't have to think about this right now. Just use Atom for the moment: [Get it here.](https://atom.io/)
+
+<sup>We consider it a good choice for beginners, because it is possible to extend it's functionality with a great variety of packages, so it's popular with experienced programmers, while it still is easy to configure and intuitively to use. Furthermore it is made by Github, the largest collaboration and version control network out there (more about this later), and therefore integrates very well with it.</sup>
 
 ### 4. Write your first script
 [...]
