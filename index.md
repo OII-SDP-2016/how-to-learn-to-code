@@ -26,6 +26,8 @@ Great! If you want to help us writing, contact one of the [contributors of this 
 
 **Complete the course at [Codecademy](https://www.codecademy.com/tracks/python). If you're lucky, this will take you one rainy weekend. If you're unlucky, the sun will come out. Nobody said it's going to be easy ;)**
 
+<sup>Codecademy follows a freemium model, so you can pay for additional quizzes and projects during the course. If you want you can do those, but actually we think you don't really need it. The free stuff is enough to give you a good foundation.</sup>
+
 ### 2. Installing Python on your computer
 
 * First it is important to get used to the command line [here](https://www.codecademy.com/courses/learn-the-command-line), if you aren't already.
