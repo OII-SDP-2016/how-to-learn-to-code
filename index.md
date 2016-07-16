@@ -70,4 +70,4 @@ Here are a few things you could find useful on your further journey:
 Test Driven Development, or TDD, is a great approach to development, that will save you hours of debuging.
 
 1. Start with [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
-2. If you want t go deeper in tests, take a look in this early version of [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) for free
+2. If you want to go deeper in tests, take a look in this early version of [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) for free
