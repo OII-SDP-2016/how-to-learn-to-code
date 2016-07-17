@@ -29,7 +29,7 @@ Great! If you want to help us writing, contact one of the [contributors of this 
 ### 2. Installing Python on your computer
 
 * First it is important to get used to the command line [here](https://www.codecademy.com/courses/learn-the-command-line), if you aren't already.
-* Then it is time to install Python. There are tons of ways to do it but one of the easiest is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the **Python 3.5** distribution for your operational system](https://www.continuum.io/downloads). For convenience use the graphical installer, if available.
+* Then it is time to install Python. There are tons of ways to do it but one of the easiest is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the Python **3.5** distribution for your operational system](https://www.continuum.io/downloads). For convenience use the graphical installer, if available.
 * Install it using their installer and following their install instructions.
 * Now open a command line application (e.g. the preinstalled Terminal on Mac OS X) and type `which python`. Hit Enter. You should get an output along the lines of this:
 
@@ -58,8 +58,8 @@ Here are a few things you could find useful on your further journey:
 ### Python Resources
 
 * [Python Documentation](https://docs.python.org/3.5/library/multiprocessing.html): Here you can look up every built-in function of Python in detail.
-* **[The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)**: A good thing to read through over time to understand how to become a decent Python programmer.
-* [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html)
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/): A good thing to read through over time to understand how to become a decent Python programmer.
+* [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html): A great reference to learn Python for general purposes
 
 ### Learn TDD
 
