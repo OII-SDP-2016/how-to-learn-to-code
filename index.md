@@ -26,6 +26,8 @@ Great! If you want to help us writing, contact one of the [contributors of this 
 
 **Complete the course at [Codecademy](https://www.codecademy.com/tracks/python). If you're lucky, this will take you one rainy weekend. If you're unlucky, the sun will come out. Nobody said it's going to be easy ;)**
 
+<sup>Codecademy follows a freemium model, so you can pay for additional quizzes and projects during the course. If you want you can do those, but actually we think you don't really need it. The free stuff is enough to give you a good foundation.</sup>
+
 ### 2. Installing Python on your computer
 
 * First it is important to get used to the command line [here](https://www.codecademy.com/courses/learn-the-command-line), if you aren't already.
@@ -43,7 +45,11 @@ $ which python
 * When you're finished hit <kbd>ctrl</kbd> + <kbd>D</kbd>. You will see the command line again.
 
 ### 3. Get a good text editor
-[...]
+A good text editor will make your live much more convenient.
+
+There are a lot of pretty ideological discussions about which text editor to use. You don't have to think about this right now. Just use Atom for the moment: [Get it here.](https://atom.io/)
+
+<sup>We consider it a good choice for beginners, because it is possible to extend it's functionality with a great variety of packages, so it's popular with experienced programmers, while it still is easy to configure and intuitively to use. Furthermore it is made by Github, the largest collaboration and version control network out there (more about this later), and therefore integrates very well with it.</sup>
 
 ### 4. Write your first script
 [...]
@@ -66,4 +72,4 @@ Here are a few things you could find useful on your further journey:
 Test Driven Development, or TDD, is a great approach to development, that will save you hours of debuging.
 
 1. Start with [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
-2. If you want t go deeper in tests, take a look in this early version of [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) for free
+2. If you want to go deeper in tests, take a look in this early version of [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) for free
