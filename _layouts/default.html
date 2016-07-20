@@ -25,6 +25,25 @@
         background: rgba(136, 49, 190, .2);
         color: rgba(136, 49, 190, 1)
       }
+      #markdown-toc, #kramdown ol {
+        counter-reset: item;
+      }
+      #markdown-toc ol {
+        margin: 0 0 1rem 0;
+        padding: 0
+      }
+      #markdown-toc li {
+        display: block;
+        margin: 0;
+        padding: 0
+      }
+      #markdown-toc li:before {
+        content: counters(item, ".") " ";
+        counter-increment: item
+      }
+      #markdown-toc a {
+        background: none
+      }
     </style>
 
   </head>
