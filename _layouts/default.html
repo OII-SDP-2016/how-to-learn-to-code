@@ -45,6 +45,7 @@
 
   </head>
   <body>
+
     <div class="container">
       <div class="row">
         <div class="column">
@@ -52,5 +53,15 @@
         </div>
       </div>
     </div>
+
+    <script>
+      var links = document.getElementsByTagName('a');
+      Array.prototype.slice.call(links).map(function (link) {
+        if (link.href.indexOf(window.location.origin) == -1) {
+          link.setAttribute('target', '_blank');
+        }
+      });
+    </script>
+
   </body>
 </html>
