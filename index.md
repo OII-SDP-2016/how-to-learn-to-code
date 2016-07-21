@@ -58,19 +58,13 @@ There are a lot of pretty ideological discussions about which text editor to use
 [...]
 
 ### 6. Learn pandas to work with data in Python
-Simplified, Pandas is a Python package that makes your life more pleasant when working with data in tables (and more complicated stuff). Think of everything you can do in Excel, but on speed and way more flexible and controllable. You have installed it together with Anaconda (great, isn't it?).
+Pandas is a Python package that makes your life more pleasant when working with data in tables (and also more complicated stuff). Just think about everything you could do in Excel, then add speed, flexibility and control. Yet you already have Pandas installed together with Anaconda — that's great, isn't it?
 
-Even though we don't like to offer too many options in this guide we have to provide two here, because one is a paid resource:
+Even though we don't like to offer too many options in this guide we have to provide two here, only because one of them is a paid resource:
 
-[DataCamp](https://www.datacamp.com/) is actually one of the best resources for learning R (a programming language that's mainly intended to be used for data analysis and statistics), but it offers a nice introduction to working with data in Python too. Problem is you have to subscribe for their intermediate course which is the relevant one for our purposes here.
-
-[Try the beginners course for free](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1). It will repeat a lot of what you've already learned but maybe that's a welcome revision for you. If not, feel free to jump ahead in the course until you encounter something new.
-
-So if you are willing to pay $9 for a month (you can cancel your membership every month) with a [student subscription](https://www.datacamp.com/enroll-student) afterwards, [do the intermediate course too](https://www.datacamp.com/courses/intermediate-python-for-data-science).
-
-If you're not willing to pay you can jump directly to the pandas documentation and try their ["10 Minutes to pandas"](http://pandas.pydata.org/pandas-docs/stable/10min.html). It will most likely take you more than 10 minutes but introduce you to basic concepts. Do this also if you have done the course on DataCamp because it will make you familiar with more advanced concepts.
-
-Anyway, the documentation of a package you're using should always be your best friend. Use it.
+* [DataCamp](https://www.datacamp.com/) is actually one of the best resources out there. It's also great for learning R (a programming language that's mainly intended to be used for data analysis and statistics). Problem is that what matters for us the intermediate course which is not open for non subscribers. <br>
+You can [try the beginners course for free](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1), it might be a good revision for you. But **if you are willing to pay $9/month** (you can cancel it any month) for a [student subscription](https://www.datacamp.com/enroll-student) we do recommend their [intermediate course](https://www.datacamp.com/courses/intermediate-python-for-data-science).
+* **If you're not willing to pay** you can jump directly to the Pandas documentation and try their [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html). It will most likely take you more than 10 minutes but it  introduces you to the  basic concepts.
 
 ## What next?
 
